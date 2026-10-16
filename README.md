@@ -5,23 +5,11 @@ Yükleyeceğiniz sürümün iPhone'a yüklenecek olan sürümün hala resmi imza
 Program kişisel amaçlı ve zevk amacıyla tasarlanmıştır yapılırken yapay zekadan destek alınmaktadır hatalar olabilir.
 Hem Windows hemde Linux versiyonu bulunur program ana versiyon olarak Linux için tasarlanmıştır fakat Windows'ta da çalıştırabilirisniz
 
-1-Linux'ta nasıl çalıştırılır? (Python Versiyonu)
-Öncelikle python kurun, nasıl mı? : Eğer Ubuntu tabanlı yani APT paket yöneticisine sahip bir dağıtım kullanıyorsanız şu komutla:
-
+1- (Linux-APT)
+Öncelikle python kurun, nasıl mı? Terminal'e aşağıdaki komutu yazarak python kurabilirsiniz
 
 sudo apt install python3
 
-
-Eğer DNF (Red Hat ve Fedora Linux) paket yöneticisine sahipseniz şu komut:
-
-
-sudo dnf install python3
+Python'ı kurduktan sonra Altay Signed iOS Flasher'ın linux için olan python versiyonunu  indirin yani şu dosya
 
 
-Eğer Pacman paket yöneticisine sahipseniz ise şu komutla python indirebilirsiniz:
-
-
-sudo pacman -S python
-
-
-Python'ı kurduktan sonra Altay Signed iOS Flasher'ın linux için olan python versiyonun indirin 
